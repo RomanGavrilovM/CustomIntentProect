@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomIntentProject</string>
+    <string name="main_activity_load_button">Load</string>
+</resources>
